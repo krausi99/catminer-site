@@ -1,0 +1,7 @@
+{
+  "name": "catminer-proxy",
+  "version": "1.0.0",
+  "description": "Proxy serverless function for HashrateIndex API on Vercel",
+  "type": "module",
+  "license": "MIT"
+}
